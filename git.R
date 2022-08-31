@@ -5,4 +5,3 @@ usethis::use_git_config(
   user.email = "onysk.jakub@gmail.com",
   init.defaultBranch = "main") # <-- not necessary but kinder than 'master'
 
-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
